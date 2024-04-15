@@ -1,0 +1,163 @@
+{
+    // File Explorer
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+  
+    // Security
+    "security.workspace.trust.untrustedFiles": "open",
+  
+    // Terminal
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "terminal.integrated.fontWeightBold": "bold",
+  
+    // minimap
+    "editor.minimap.autohide": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.scale": 2,
+  
+    // Launch
+    "launch": {
+      "configurations": []
+    },
+  
+    // Editor Font Setup
+    "editor.fontSize": 22,
+    "editor.wordWrap": "on",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Cascadia Code','Operator Mono SSm Lig','JetBrains Mono'",
+    "editor.fontWeight": "normal", // Adjust for desired weight
+  
+    // Prettier Formatter
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 80,
+    // "prettier.tabWidth": 4,
+  
+    // ESLint Setup
+    "editor.codeActionsOnSave": {
+      "source.sortImports": "explicit",
+      "source.fixAll.eslint": "explicit",
+      "source.fixAll.tslint": "explicit",
+      "source.fixAll.stylelint": "explicit"
+    },
+  
+    // Cursor
+    "editor.mouseWheelZoom": true,
+  
+    // HTML
+    "html.format.contentUnformatted": "",
+    "editor.linkedEditing": true,
+  
+    // Git
+    "git.autoStash": true,
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+  
+    // Live Server
+    "liveServer.settings.donotShowInfoMsg": true,
+  
+    // JSON Schemas
+    "json.schemas": [],
+  
+    // Files
+    "files.autoSaveDelay": 1,
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "liveServer.settings.donotVerifyTags": true,
+  
+    // Editor Bracket Pair Colorization
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+  
+    // Tailwind CSS
+    "tailwindCSS.emmetCompletions": true,
+  
+    // Color Customizations
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.colorCustomizations": {
+      "editorBracketHighlight.foreground1": "#fde047",
+      "editorBracketHighlight.foreground2": "#d946ef",
+      "editorBracketHighlight.foreground3": "#74f107",
+      "editorBracketHighlight.foreground4": "#0ea5e9",
+      "editorBracketHighlight.foreground5": "#f97316",
+      "editorBracketHighlight.foreground6": "#22c55e",
+      "editorBracketHighlight.unexpectedBracket.foreground": "#d60d0d",
+  
+      // Terminal Customization
+      "terminalCursor.background": "#74f107",
+      "terminalCursor.foreground": "#74f107",
+      "terminal.ansiBrightYellow": "#fde047",
+  
+      "tab.activeBorder": "#ff0000",
+      "tab.activeForeground": "#FFCA70"
+    },
+  
+    // Files AutoSave
+    "files.autoSave": "afterDelay",
+  
+    // Git
+    "git.openRepositoryInParentFolders": "always",
+  
+    // Editor Cursor Blinking
+    "editor.cursorBlinking": "smooth",
+  
+    // Code Formatting Token Color Customizations
+    "editor.tokenColorCustomizations": {
+      "comments": "#94a3b8"
+    },
+  
+    // Emmet
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+  
+    // Editor Quick Suggestions
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+  
+    // Power Mode
+    "powermode.enabled": true,
+    "powermode.combo.timerEnabled": "hide",
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.location": "off",
+    "powermode.shake.intensity": 0,
+    "powermode.presets": "flames",
+  
+    // JavaScript Import Updates
+    "javascript.updateImportsOnFileMove.enabled": "always",
+  
+    // Git Merge Editor
+    "git.mergeEditor": true,
+  
+    // HTML Tag Wrap
+    "htmltagwrap.tag": "div",
+  
+    // TODO Highlight
+    "todohighlight.isEnable": true,
+    "todohighlight.keywords": [
+      {
+        "text": "TODO",
+        "backgroundColor": "red",
+        "color": "white"
+      }
+    ],
+  
+    // Workbench
+    "workbench.colorTheme": "Learn with Sumit Official Theme",
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.location": "top",
+    "cSpell.suggestionMenuType": "quickFix",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 1,
+    "terminal.integrated.env.windows": {},
+    "turboConsoleLog.addSemicolonInTheEnd": true,
+    "turboConsoleLog.insertEnclosingClass": false,
+    "turboConsoleLog.insertEnclosingFunction": false,
+    "turboConsoleLog.includeFileNameAndLineNum": true,
+    "git.confirmSync": false
+    // "github.copilot.editor.enableAutoCompletions": false,
+  }
+  
