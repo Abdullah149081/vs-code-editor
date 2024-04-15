@@ -1,15 +1,15 @@
 ## Vs code Extensions
 
-![](./1.PNG)
+![](./assets/1.PNG)
 
 ## 
 
-![](./2.PNG)
+![](./assets/2.PNG)
 
 ## 
 
-![](./3.PNG)
+![](./assets/3.PNG)
 
 ## 
 
-![](./4.PNG)
+![](./assets/4.PNG)
